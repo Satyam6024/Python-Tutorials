@@ -22,5 +22,5 @@
   12. To update the changes in Github you need to push the commit by "git push"
 
 ### Stepping into the World of Python
-  1. Printing Hello World
-  2. Strings
+  1. Python Basics
+  2. 
