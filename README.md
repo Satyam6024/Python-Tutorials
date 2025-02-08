@@ -23,4 +23,4 @@
 
 ### Stepping into the World of Python
   1. Python Basics
-  2. 
+  2. String
